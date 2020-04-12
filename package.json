@@ -1,0 +1,20 @@
+{
+  "name": "test-artoolkit5-js",
+  "version": "0.0.1",
+  "description": "testing artoolkit5-js with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "jsartoolkit5",
+    "node.js",
+    "Artoolkit"
+  ],
+  "author": "kalwalt",
+  "license": "ISC",
+  "dependencies": {
+    "artoolkit5-js": "0.0.4",
+    "canvas": "^2.6.1"
+  }
+}
